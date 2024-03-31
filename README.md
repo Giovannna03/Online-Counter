@@ -1,7 +1,16 @@
 # Online counter
-Hi! this is my very first project with javascript and it is an online counter.
+Hi! this is my very first project with javascript, it is a simple online counter created with JavaScript. The project was developed as part of an introductory exercise to JavaScript.
 
-Link: https://counteronline.netlify.app
+## Features
 
-# Description
-This website was created using Html, Css and Javascript. This online counter allows the user to increment or decrement the value.
+- Increment and decrement the counter value.
+- Display the current value of the counter.
+
+## Languages
+
+- HTML
+- CSS
+- JavaScript
+
+## Try it!
+You can try this simple online counter at this link: https://counteronline.netlify.app
